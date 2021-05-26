@@ -1,4 +1,4 @@
 ILUS5-SCSS/config.js linguist-detectable=false
-ILUS5-SCSS/_utilities.scss linguist-detectable=false
+ILUS5-SCSS/* linguist-detectable=false
 scss-version/index.ts linguist-detectable=false
-scss-version/scss/* linguist-detectable=false
+scss-version/scss/*.scss linguist-detectable=false
