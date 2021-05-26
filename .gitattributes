@@ -4,5 +4,6 @@ ILUS5-SCSS/_specials.scss linguist-detectable=false
 ILUS5-SCSS/_elements.scss linguist-detectable=false
 ILUS5-SCSS/_forms.scss linguist-detectable=false
 ILUS5-SCSS/_mixins.scss linguist-detectable=false
+ILUS5-SCSS/_functions.scss linguist-detectable=false
 scss-version/index.ts linguist-detectable=false
 scss-version/scss/*.scss linguist-detectable=false
